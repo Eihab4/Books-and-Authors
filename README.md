@@ -133,4 +133,5 @@ Contributions to the Books and Authors API project are welcome! Feel free to for
 
 ## Postman Collection
 
-Explore and test our API endpoints using [Postman](https://www.getpostman.com/) with our [Postman Collection](link_to_your_postman_collection).
+Explore and test our API endpoints using [Postman](https://documenter.getpostman.com/view/34440263/2sA3XWcyUq#4bee873d-38d1-4858-8f9e-de49638fe7b9). You can access our complete API documentation and interact with our endpoints through our [Postman Collection](https://documenter.getpostman.com/view/34440263/2sA3XWcyUq#4bee873d-38d1-4858-8f9e-de49638fe7b9).
+

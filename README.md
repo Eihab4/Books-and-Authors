@@ -15,7 +15,6 @@ Welcome to the documentation for our cutting-edge Books and Authors API! This AP
 7. [Bonus Features](#bonus-features)
 8. [Usage Examples](#usage-examples)
 9. [Contributing](#contributing)
-10. [License](#license)
 
 ---
 

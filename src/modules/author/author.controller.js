@@ -23,7 +23,7 @@ export const getAllAuthors = async (req, res) => {
 // GET request to get a author by id.
 
 export const getAuthorById = async (req, res) => {
-    const author = await Author.findById(req.params.id).populate('wroteBooks', 'title').populate('books', 'title');
+    const author = await Author.findById(req.params.id).populate('wroteBooks', 'title');
     if (!author) { 
         return res.status(404).json({ message: 'Author not found' });
     }
